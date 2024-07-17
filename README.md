@@ -7,7 +7,9 @@ In this paper, we introduce the AE-GCN model, a novel approach combining attenti
 
 The effectiveness of our proposed method is demonstrated using real-world data collected from a multi-center cohort.
 ## Model
-Figure 1 shows the flowchart of the proposed MHAFF.
+Figure 1 shows the flowchart of the proposed AE-GCN.
+![image](https://github.com/xy015/AE-GCN/blob/main/Model.png?raw=true)
 
 ## Requirements
+
 
