@@ -18,9 +18,10 @@ The code is written in Python and requires the following packages:
 * Matplotlib 3.4.3
 * Numpy 1.19.5
 * Pandas 1.3.4
-* Sklearn 0.19.3
+* Sklearn 1.0
 * Scipy 1.7.1
 * tqdm 4.66.4
 * tf_geometric 0.1.6
+* scikit-image 0.19.3
 
 
