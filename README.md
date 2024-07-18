@@ -9,7 +9,10 @@ The effectiveness of our proposed method is demonstrated using real-world data c
 ## Model
 Figure 1 shows the flowchart of the proposed AE-GCN.
 ![image](https://github.com/xy015/AE-GCN/blob/main/Model.png?raw=true)
-
+The input is an array of CT images with regard to a specific patient, with nodule centers manually labelled, in advance. Module A represents the CBAM feature extractor, utilizing both channel and spatial attention mechanism on a pre-trained VGG (a zoom-in view of the attention mechanism is provided below). Module B encompasses both the graph construction and GCN classification. The final nodule-level prediction is obtained by averaging the slice-level probabilities.
 ## Requirements
+The code is written in Python and requires the following packages:
+* Python 3.8
+Python 3.8, CUDA 11.2, cuDNN 8.0, Tensorflow 2.6, Keras2.3.1, NVCC, Ubuntu 18.04, OpenMPI 4.0.0, Horovod 0.22.1,
 
 
