@@ -1,6 +1,6 @@
 # AE-GCN
 Code for the article 'High-risk Factor Prediction in Lung Cancer Using Thin CT Scans: An Attention-Enhanced Graph Convolutional Network Approach'
-Fu, X., Meng, X., Zhou, J., and Ji, Y., (2023), High-risk Factor Prediction in Lung Cancer Using Thin CT Scans: An Attention-Enhanced Graph Convolutional Network Approach. In 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Istanbul, Turkiye, 2023 pp. 1905-1910.
+Reference:*Fu, X., Meng, X., Zhou, J., and Ji, Y., (2023), High-risk Factor Prediction in Lung Cancer Using Thin CT Scans: An Attention-Enhanced Graph Convolutional Network Approach. In 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Istanbul, Turkiye, 2023 pp. 1905-1910.*
 ## Introduction
 In medical scenarios, identifying high-risk factors in early-stage lung cancers is vital for surgical planning. Currently, surgeons rely on intraoperative pathological analyses for decision-making. However,preoperative determination, such as using CT images, remains a significant challenge. 
 
